@@ -1,4 +1,4 @@
-### Hi there 👋
+### Associate Data Engineer for Stonegate Group
 
 <!--
 **michaelam0s/michaelam0s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
